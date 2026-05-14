@@ -18,6 +18,7 @@ public class TareasServlet extends HttpServlet {
     public void init() throws ServletException {
         tareas.add(new Tarea(contadorId++, "Leer documentación de Servlets"));
         tareas.add(new Tarea(contadorId++, "Implementar ciclo GET/POST"));
+        tareas.add(new Tarea(contadorId++, "Crear vista JSP con JSTL"));
     }
 
     @Override

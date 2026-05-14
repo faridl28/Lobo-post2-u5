@@ -16,6 +16,7 @@
 </head>
 <body>
     <h1>Lista de Tareas</h1>
+    <p>Total de tareas: <strong>${tareas.size()}</strong></p>
 
     <c:if test="${not empty error}">
         <p class="error">${error}</p>

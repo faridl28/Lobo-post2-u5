@@ -33,8 +33,11 @@ index.jsp
 3. Ejecutar con Tomcat 10.1 en el puerto 8081
 4. Acceder a: http://localhost:8081/gestion-tareas
 
-## Funcionalidades
+## Funcionalidades.
 - ✅ Listar tareas (GET)
+- ![img_3.png](img_3.png) 
 - ✅ Agregar tarea con validación (POST)
+- ![img_1.png](img_1.png)
 - ✅ Eliminar tarea (POST)
+- ![img_2.png](img_2.png)
 - ✅ Patrón PRG implementado
